@@ -1,0 +1,956 @@
+{
+  "products": [
+    {
+      "id": "80eb",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Croquette Royal Canin",
+      "species": "cat",
+      "price": "80DH",
+      "image": "produits/pdt1.jpeg"
+    },
+    {
+      "id": "fc4a",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Miglior Gatto",
+      "species": "cat",
+      "price": "12DH",
+      "image": "produits/pdt6.jpeg"
+    },
+    {
+      "id": "633d",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Croquettes Royal Canin",
+      "species": "cat",
+      "price": "90DH",
+      "image": "produits/pdt7.jpeg"
+    },
+    {
+      "id": "d852",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Miglior Gatto",
+      "species": "cat",
+      "price": "7DH",
+      "image": "produits/pdtt5.jpeg"
+    },
+    {
+      "id": "07d3",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": " Cat Litier ",
+      "species": "cat",
+      "price": "50DH",
+      "image": "produits/pdt10.jpeg"
+    },
+    {
+      "id": "4f0d",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cage",
+      "species": "cat",
+      "price": "200DH",
+      "image": "produits/pdt12.jpeg"
+    },
+    {
+      "id": "22d5",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cage",
+      "species": "cat",
+      "price": "180DH",
+      "image": "produits/pdt14.jpeg"
+    },
+    {
+      "id": "e0a0",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cage Transport",
+      "species": "Cat",
+      "price": "160DH",
+      "image": "produits/pdt20.jpeg"
+    },
+    {
+      "id": "3569",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cage Transport",
+      "species": "Cat",
+      "price": "160DH",
+      "image": "produits/pdt19.jpeg"
+    },
+    {
+      "id": "bfe4",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cat Collar",
+      "species": "Cat ",
+      "price": "20DH",
+      "image": "produits/pdt24.jpeg"
+    },
+    {
+      "id": "b442",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cienture",
+      "species": "Cat",
+      "price": "26DH",
+      "image": "produits/pdt29.jpeg"
+    },
+    {
+      "id": "68aa",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Produit Nettoyage",
+      "species": "Cat",
+      "price": "46DH",
+      "image": "produits/pdt30.jpeg"
+    },
+    {
+      "id": "1e8b",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cat Shampoo",
+      "species": "Cat",
+      "price": "56DH",
+      "image": "produits/pdt33.jpeg"
+    },
+    {
+      "id": "04f6",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": " Pate Royal Canin",
+      "species": "cat",
+      "price": "26DH",
+      "image": "produits/pdt5.jpeg"
+    },
+    {
+      "id": "1d59",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Croquettes Royal Canin",
+      "species": "Dog",
+      "price": "189DH",
+      "image": "produits/pdt38.jpeg"
+    },
+    {
+      "id": "675f",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Bird Food ",
+      "species": "Bird",
+      "price": "40DH",
+      "image": "produits/pdt44.jpeg"
+    },
+    {
+      "id": "5be4",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cage Bird",
+      "species": "Bird",
+      "price": "100DH",
+      "image": "produits/pdt47.jpeg"
+    },
+    {
+      "id": "23ce",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "species": "Rabbit",
+      "name": "Cage Rabbit",
+      "price": "120DH",
+      "image": "produits/pdt51.jpeg"
+    },
+    {
+      "id": "ef06",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Rabbit Food",
+      "species": "Rabbit",
+      "price": "46DH",
+      "image": "produits/pdt48.jpeg"
+    },
+    {
+      "id": "be9f",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Cat Toy",
+      "species": "Cat",
+      "price": "16DH",
+      "image": "produits/pdt55.jpeg"
+    },
+    {
+      "id": "48c5",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Dog Toy",
+      "species": "Dog",
+      "price": "18DH",
+      "image": "produits/pdt58.jpeg"
+    },
+    {
+      "id": "de47",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Toy",
+      "species": "Cat Toy ",
+      "price": "10DH",
+      "image": "produits/pdt57.jpeg"
+    },
+    {
+      "id": "b1c8",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Dog Toy",
+      "species": "Dog",
+      "price": "16DH",
+      "image": "produits/pdt54.jpeg"
+    },
+    {
+      "id": "9bf1",
+      "Product": "",
+      "Price": "",
+      "breed": "",
+      "name": "Bed Dog",
+      "species": "Dog",
+      "price": "200Dh",
+      "image": "produits/pdt60.jpeg"
+    },
+    {
+      "id": "1c6a",
+      "name": "Croquette Royal Canin",
+      "species": "Cat",
+      "price": "80DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747688869/hnrepuxx5fm8j5nekpg3.jpg"
+    },
+    {
+      "id": "dbad",
+      "name": "Pate Gourmet",
+      "species": "Cat",
+      "price": "45DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747688922/agnfqkfoc9csjxfalpmg.jpg"
+    },
+    {
+      "id": "8b56",
+      "name": "Cat Litier",
+      "species": "Cat",
+      "price": "70DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747688969/osyu8dz6s1nurgbhwf60.jpg"
+    },
+    {
+      "id": "bc14",
+      "name": "Cage  ",
+      "species": "Cat ",
+      "price": "100DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689006/uebe7zyyjcpba4ejhs6v.jpg"
+    },
+    {
+      "id": "d123",
+      "name": "Cage Transport",
+      "species": "Cat ",
+      "price": "120DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689065/tr31tvyiznhzvfzkpwku.jpg"
+    },
+    {
+      "id": "8667",
+      "name": "Dog Collar",
+      "species": "Dog",
+      "price": "15DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689103/gk5jztizpczqhn9rxha2.jpg"
+    },
+    {
+      "id": "94a2",
+      "name": "Cat Collar",
+      "species": "Cat",
+      "price": "15DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689139/u4yfzdqsivgpicottiol.jpg"
+    },
+    {
+      "id": "537e",
+      "name": "Dentastix",
+      "species": "Dog ",
+      "price": "12DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689209/twyuekdeacl9gwyujmzw.jpg"
+    },
+    {
+      "id": "59f6",
+      "name": "Croquette Dog ",
+      "species": "Dog ",
+      "price": "60DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689251/lzlblenptc2hasyqc8nr.jpg"
+    },
+    {
+      "id": "c5bc",
+      "name": "Pate Dog ",
+      "species": "Dog ",
+      "price": "12DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689290/d5nxplt395hj8t5gso1p.jpg"
+    },
+    {
+      "id": "1195",
+      "name": "Muslière",
+      "species": "Dog ",
+      "price": "20DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689409/th8xrandqfhnepqz3v5c.jpg"
+    },
+    {
+      "id": "e0cd",
+      "name": "Bird Cage",
+      "species": "Bird ",
+      "price": "80DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689472/uqohpgt63yxokp2yttyo.jpg"
+    },
+    {
+      "id": "72ae",
+      "name": "Dog Bed ",
+      "species": "Dog ",
+      "price": "120DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689515/pstyeyqknhagzc8vlnvv.jpg"
+    },
+    {
+      "id": "622d",
+      "name": "Dog Bowl ",
+      "species": "Dog ",
+      "price": "16DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689594/m3n5ocsqmgltfopszn2i.jpg"
+    },
+    {
+      "id": "add5",
+      "name": "Cat Top ",
+      "species": "Cat ",
+      "price": "8DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689681/hbm41easpb3hqduqqbje.jpg"
+    },
+    {
+      "id": "3dbd",
+      "name": "Bowl Cat ",
+      "species": "Cat ",
+      "price": "8DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689760/shfohqzqwaogqpkvgh61.jpg"
+    },
+    {
+      "id": "535b",
+      "name": "Bowl ",
+      "species": "Cat and Dog ",
+      "price": "20DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689799/oqngti8tg6ny7d319u1d.jpg"
+    },
+    {
+      "id": "7cf2",
+      "name": "Brodie Brush",
+      "species": "Dog ",
+      "price": "14DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747689990/omm62o3nazbjbbbyosdl.jpg"
+    },
+    {
+      "id": "8ca3",
+      "name": "Cat Bed",
+      "species": "Cat ",
+      "price": "120DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690069/ghq4lnoi6nwfyrvdj3a4.jpg"
+    },
+    {
+      "id": "2813",
+      "name": "Cat Bed",
+      "species": "Cat",
+      "price": "120 DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690116/wf0rtje7d3crdzewtp4z.jpg"
+    },
+    {
+      "id": "e723",
+      "name": "Cat Shampoo",
+      "species": "Cat ",
+      "price": "27DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690179/f0gqwsb7zimtebjigsz6.jpg"
+    },
+    {
+      "id": "5b91",
+      "name": "Dog Shampoo",
+      "species": "Dog ",
+      "price": "30DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690206/t6zfaqrf6b3k66oqtzou.jpg"
+    },
+    {
+      "id": "f7d8",
+      "name": "Dog Collar ",
+      "species": "Dog ",
+      "price": "16DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690264/agafwktijufecfkbrrlx.jpg"
+    },
+    {
+      "id": "98e5",
+      "name": "Dog Collar ",
+      "species": "Dog ",
+      "price": "16DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690302/ky45nbn4uokcflqion7l.jpg"
+    },
+    {
+      "id": "f166",
+      "name": "Dog Croquette",
+      "species": "Dog ",
+      "price": "70DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690619/bsk56lwb3ugexcmrihwn.jpg"
+    },
+    {
+      "id": "b3eb",
+      "name": "Cienture ",
+      "species": "Cat and Dog ",
+      "price": "26DH",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690809/ynyet1lf3yjlcwd3viuk.jpg"
+    },
+    {
+      "id": "5f3f",
+      "name": "Dog Toy ",
+      "species": "Dog ",
+      "price": "8DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690936/egfmbdkgpemwxqazujwb.jpg"
+    },
+    {
+      "id": "681e",
+      "name": "Croquette Royal Canin",
+      "species": "Dog ",
+      "price": "100 DH ",
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747690970/inoahicmwar7l8zgtwgg.jpg"
+    }
+  ],
+  "pets": [
+    {
+      "id": 9,
+      "name": "Bella",
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "age": 3,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-01",
+      "location": {
+        "city": "Taza",
+        "state": "Taza-Al Hoceïma-Taounate",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat6.jpeg",
+      "description": "Playful and curiou"
+    },
+    {
+      "id": 5,
+      "name": "Charlie",
+      "species": "Dog",
+      "breed": "Berger Suisse",
+      "age": 4,
+      "gender": "Male",
+      "size": "Large",
+      "adoptionStatus": "Adopted",
+      "vaccinated": true,
+      "adoptableSince": "2025-01-05",
+      "location": {
+        "city": "Tangier",
+        "state": "Tanger-Tétouan-Al Hoceïma",
+        "country": "Morocco"
+      },
+      "image": "/public/images/dog8.jpeg",
+      "description": "Friendly and sociable"
+    },
+    {
+      "id": 6,
+      "name": "Luna",
+      "species": "Cat",
+      "breed": "",
+      "age": "1",
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-01",
+      "location": {
+        "city": "Taza",
+        "state": "Taza-Al Hoceïma-Taounate",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat9.jpeg",
+      "description": "Affectionate and cuddly "
+    },
+    {
+      "id": 19,
+      "name": "Athéna",
+      "species": "Rabbit",
+      "breed": "American Chinchilla",
+      "age": "1.5",
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/rabbit5.jpg",
+      "description": "Sensitive and gentle "
+    },
+    {
+      "id": 22,
+      "name": "Lutcy",
+      "species": "Cat",
+      "breed": "Maine Coon",
+      "age": 2,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-02-15",
+      "location": {
+        "city": "Rabat",
+        "state": "Rabat-Salé-Kénitra",
+        "country": "Morocco"
+      },
+      "description": "Bright and lively",
+      "image": "/public/images/img4.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Robin",
+      "species": "Bird",
+      "breed": "Cockatoo",
+      "age": 1,
+      "gender": "Male",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-05-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "images/img3.jpeg",
+      "description": "Bright and lively, full of songs and playful energy"
+    },
+    {
+      "id": 14,
+      "name": "Rabbi",
+      "species": "Rabbit",
+      "breed": "Maine Coon",
+      "age": 1,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-30",
+      "location": {
+        "city": "Taza",
+        "state": "Taza-Al Hoceïma-Taounate",
+        "country": "Morocco"
+      },
+      "image": "images/img2.jpeg",
+      "description": "Soft and cuddly"
+    },
+    {
+      "id": "22",
+      "name": "Eva",
+      "species": "Cat",
+      "breed": "Cat",
+      "age": 2,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-05-01",
+      "location": {
+        "city": "Tiznit",
+        "state": "Tiznit",
+        "country": "Morocco"
+      },
+      "image": "https://res.cloudinary.com/dalun8m2a/image/upload/v1747681950/fg8rffd9kytlo1ymfpna.jpg",
+      "description": "Curious and Independent"
+    },
+    {
+      "id": 2,
+      "name": "Lutcy",
+      "species": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Adopted",
+      "vaccinated": true,
+      "adoptableSince": "2025-02-15",
+      "location": {
+        "city": "Rabat",
+        "state": "Rabat-Salé-Kénitra",
+        "country": "Morocco"
+      },
+      "description": "Independent and self-sufficient",
+      "image": "/public/images/cat11.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Tokyo",
+      "species": "Dog",
+      "breed": "Husky",
+      "age": 5,
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-05-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/img8.avif",
+      "description": "Fun-loving and silly "
+    },
+    {
+      "id": 3,
+      "name": "Fluffy",
+      "species": "Bird",
+      "breed": "Cockatoo",
+      "age": 2,
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/bird.jpeg",
+      "description": "Bright and lively, full of songs and playful energy"
+    },
+    {
+      "id": 4,
+      "name": "Bunny",
+      "species": "Hamster",
+      "breed": "Himalayan Rabbit",
+      "age": "1 year ",
+      "gender": "Male",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-03-12",
+      "location": {
+        "city": "Marrakech",
+        "state": "Marrakech-Safi",
+        "country": "Morocco"
+      },
+      "image": "/public/images/hamster1.jpeg",
+      "description": "Gentle and curious"
+    },
+    {
+      "id": 7,
+      "name": "Rocky",
+      "species": "Dog",
+      "breed": "Golden Retriever",
+      "age": "4 Mounths",
+      "gender": "Male",
+      "size": "Small",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-03-30",
+      "location": {
+        "city": "Agadir",
+        "state": "Souss-Massa",
+        "country": "Morocco"
+      },
+      "image": "/public/images/dog9.jpeg",
+      "description": "Playful and energetic "
+    },
+    {
+      "id": 8,
+      "name": "Fly",
+      "species": "Bird",
+      "breed": "Abyssinian Lovebird",
+      "age": "2 ",
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/bird4.jpeg",
+      "description": "Vibrant and colorful"
+    },
+    {
+      "id": 10,
+      "name": "Hazel",
+      "species": "Hamster",
+      "breed": "Aurora Negro",
+      "age": 2,
+      "gender": "Female",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-01",
+      "location": {
+        "city": "Taza",
+        "state": "Taza-Al Hoceïma-Taounate",
+        "country": "Morocco"
+      },
+      "image": "/public/images/hamster2.jpeg",
+      "description": "Gentle and affectionate"
+    },
+    {
+      "id": 11,
+      "name": "Simba",
+      "species": "Cat",
+      "breed": "Bengal",
+      "age": 3,
+      "gender": "Male",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-03-18",
+      "location": {
+        "city": "Chefchaouen",
+        "state": "Tanger-Tétouan-Al Hoceïma",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat3.jpeg",
+      "description": "Graceful and sleek"
+    },
+    {
+      "id": 12,
+      "name": "Queen",
+      "species": "Bird",
+      "breed": "Caique",
+      "age": 1,
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/bird3.jpeg",
+      "description": "Curious and intelligent"
+    },
+    {
+      "id": 13,
+      "name": "Alex",
+      "species": "Dog",
+      "breed": "German Shepherd",
+      "age": 7,
+      "gender": "Male",
+      "size": "Large",
+      "adoptionStatus": "Adopted",
+      "vaccinated": true,
+      "adoptableSince": "2025-02-05",
+      "location": {
+        "city": "Meknes",
+        "state": "Fès-Meknès",
+        "country": "Morocco"
+      },
+      "image": "/images/dog3.jpeg",
+      "description": "Trainable and smart"
+    },
+    {
+      "id": 14,
+      "name": "Nouki",
+      "species": "Rabbit",
+      "breed": "Maine Coon",
+      "age": 1,
+      "gender": "Male",
+      "size": "Medium",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-01",
+      "location": {
+        "city": "Taza",
+        "state": "Taza-Al Hoceïma-Taounate",
+        "country": "Morocco"
+      },
+      "image": "/public/images/rabbit.jpeg",
+      "description": "Soft and cuddly"
+    },
+    {
+      "id": 1,
+      "name": "Buddy",
+      "species": "Dog",
+      "breed": "chiuahua",
+      "age": 3,
+      "gender": "Male",
+      "size": "Small",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-01-10",
+      "location": {
+        "city": "Casablanca",
+        "state": "Casablanca-Settat",
+        "country": "Morocco"
+      },
+      "description": "Calm and cuddly",
+      "image": "/public/images/img9.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Leo",
+      "species": "Cat",
+      "breed": "American Wirehair",
+      "age": 1.5,
+      "gender": "Female",
+      "size": "Small",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat8.jpeg",
+      "description": "Mysterious and charming"
+    },
+    {
+      "id": 16,
+      "name": "Mulan",
+      "species": "Bird",
+      "breed": "Amazon Parrots",
+      "age": 3,
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/bird5.jpeg",
+      "description": "Social and talkative"
+    },
+    {
+      "id": 17,
+      "name": "Tokyo",
+      "species": "Dog",
+      "breed": "Bulldog",
+      "age": 5,
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/dog2.jpeg",
+      "description": "Fun-loving and silly "
+    },
+    {
+      "id": 18,
+      "name": "Kitty",
+      "species": "cat",
+      "breed": "Chartreux",
+      "age": "1mounths",
+      "gender": "Female",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat10.jpeg",
+      "description": "Quiet and contemplative"
+    },
+    {
+      "id": 20,
+      "name": "Oliver",
+      "species": "Cat",
+      "breed": "Turkish Van",
+      "age": 2,
+      "gender": "Male",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/cat1.jpeg",
+      "description": "Calm and soothing "
+    },
+    {
+      "id": "26",
+      "name": "Alex",
+      "species": "Dog",
+      "breed": "Caniche",
+      "age": 1,
+      "gender": "Male",
+      "size": "Small",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-05-16",
+      "location": {
+        "city": "Nador",
+        "state": "Nador",
+        "country": "Morocco"
+      },
+      "image": "/images/dog7.jpeg",
+      "description": "Friendly and loves to explore tunnels."
+    },
+    {
+      "id": 21,
+      "name": "luxy",
+      "species": "Dog",
+      "breed": "Husky",
+      "age": 2,
+      "gender": "Male",
+      "size": "Large",
+      "adoptionStatus": "Available",
+      "vaccinated": true,
+      "adoptableSince": "2025-04-02",
+      "location": {
+        "city": "Oujda",
+        "state": "Oriental",
+        "country": "Morocco"
+      },
+      "image": "/public/images/dog12.jpeg",
+      "description": "Curious and adventurous"
+    }
+
+  ]
+}
