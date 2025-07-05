@@ -9,7 +9,7 @@ import ContactUs from './Pages/ContactUs';
 import FormData from './Components/FormData';
 import AdoptForm from './Pages/AdoptForm';
 import Favorites from './Pages/Favorites';
-import NotFound from './Pages/notFound';
+import NotFound from './Pages/NotFound';
 import Dashboard from './Components/Dashboard';
 import Navbar from './Components/Navbar';
 import Login from './Components/Login';
