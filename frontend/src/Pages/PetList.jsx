@@ -11,7 +11,7 @@ const PetList = () => {
 
   useEffect(() => {
     // Requête axios pour récupérer les données depuis JSON server
-    axios.get('http://localhost:5000/pets')
+    axios.get('https://furble-pets-demo.onrender.com/pets')
       .then(response => {
         setAnimals(response.data);
         setFilteredAnimals(response.data);
