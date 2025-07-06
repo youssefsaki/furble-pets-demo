@@ -15,7 +15,7 @@ const PetProducts = () => {
     const fetchProducts = async () => {
       try {
         setIsLoading(true);
-        const response = await fetch('http://localhost:5000/products');
+        const response = await fetch('https://furble-pets-demo.onrender.com/products');
         const data = await response.json();
         setProducts(data);
         

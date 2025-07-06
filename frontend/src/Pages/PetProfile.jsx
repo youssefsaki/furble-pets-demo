@@ -12,7 +12,7 @@ const PetProfile = () => {
 
   useEffect(() => {
     async function fetchAnimals() {
-      const {data} = await axios.get(`http://localhost:5000/pets/${id}`);
+      const {data} = await axios.get(`https://furble-pets-demo.onrender.com/pets/${id}`);
       setAnimal(data);
     }
 
