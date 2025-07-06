@@ -454,27 +454,8 @@
         "state": "Taza-Al Hoceïma-Taounate",
         "country": "Morocco"
       },
-      "image": "/public/images/cat6.jpeg",
+      "image": "/public/images/cat6.jpg",
       "description": "Playful and curiou"
-    },
-    {
-      "id": 5,
-      "name": "Charlie",
-      "species": "Dog",
-      "breed": "Berger Suisse",
-      "age": 4,
-      "gender": "Male",
-      "size": "Large",
-      "adoptionStatus": "Adopted",
-      "vaccinated": true,
-      "adoptableSince": "2025-01-05",
-      "location": {
-        "city": "Tangier",
-        "state": "Tanger-Tétouan-Al Hoceïma",
-        "country": "Morocco"
-      },
-      "image": "/public/images/dog8.jpeg",
-      "description": "Friendly and sociable"
     },
     {
       "id": 6,
@@ -492,7 +473,7 @@
         "state": "Taza-Al Hoceïma-Taounate",
         "country": "Morocco"
       },
-      "image": "/public/images/cat9.jpeg",
+      "image": "/public/images/cat9.jpg",
       "description": "Affectionate and cuddly "
     },
     {
@@ -513,63 +494,6 @@
       },
       "image": "/public/images/rabbit5.jpg",
       "description": "Sensitive and gentle "
-    },
-    {
-      "id": 22,
-      "name": "Lutcy",
-      "species": "Cat",
-      "breed": "Maine Coon",
-      "age": 2,
-      "gender": "Female",
-      "size": "Medium",
-      "adoptionStatus": "Available",
-      "vaccinated": true,
-      "adoptableSince": "2025-02-15",
-      "location": {
-        "city": "Rabat",
-        "state": "Rabat-Salé-Kénitra",
-        "country": "Morocco"
-      },
-      "description": "Bright and lively",
-      "image": "/public/images/img4.jpeg"
-    },
-    {
-      "id": 3,
-      "name": "Robin",
-      "species": "Bird",
-      "breed": "Cockatoo",
-      "age": 1,
-      "gender": "Male",
-      "size": "Large",
-      "adoptionStatus": "Available",
-      "vaccinated": true,
-      "adoptableSince": "2025-05-02",
-      "location": {
-        "city": "Oujda",
-        "state": "Oriental",
-        "country": "Morocco"
-      },
-      "image": "images/img3.jpeg",
-      "description": "Bright and lively, full of songs and playful energy"
-    },
-    {
-      "id": 14,
-      "name": "Rabbi",
-      "species": "Rabbit",
-      "breed": "Maine Coon",
-      "age": 1,
-      "gender": "Female",
-      "size": "Medium",
-      "adoptionStatus": "Available",
-      "vaccinated": true,
-      "adoptableSince": "2025-04-30",
-      "location": {
-        "city": "Taza",
-        "state": "Taza-Al Hoceïma-Taounate",
-        "country": "Morocco"
-      },
-      "image": "images/img2.jpeg",
-      "description": "Soft and cuddly"
     },
     {
       "id": "22",
@@ -762,25 +686,6 @@
       "description": "Curious and intelligent"
     },
     {
-      "id": 13,
-      "name": "Alex",
-      "species": "Dog",
-      "breed": "German Shepherd",
-      "age": 7,
-      "gender": "Male",
-      "size": "Large",
-      "adoptionStatus": "Adopted",
-      "vaccinated": true,
-      "adoptableSince": "2025-02-05",
-      "location": {
-        "city": "Meknes",
-        "state": "Fès-Meknès",
-        "country": "Morocco"
-      },
-      "image": "/images/dog3.jpeg",
-      "description": "Trainable and smart"
-    },
-    {
       "id": 14,
       "name": "Nouki",
       "species": "Rabbit",
@@ -855,25 +760,6 @@
       },
       "image": "/public/images/bird5.jpeg",
       "description": "Social and talkative"
-    },
-    {
-      "id": 17,
-      "name": "Tokyo",
-      "species": "Dog",
-      "breed": "Bulldog",
-      "age": 5,
-      "gender": "Female",
-      "size": "Large",
-      "adoptionStatus": "Available",
-      "vaccinated": true,
-      "adoptableSince": "2025-04-02",
-      "location": {
-        "city": "Oujda",
-        "state": "Oriental",
-        "country": "Morocco"
-      },
-      "image": "/public/images/dog2.jpeg",
-      "description": "Fun-loving and silly "
     },
     {
       "id": 18,

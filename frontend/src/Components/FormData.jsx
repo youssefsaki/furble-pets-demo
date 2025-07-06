@@ -27,7 +27,7 @@ const FormData = () => {
       return;
     }
 
-    fetch('https://furble-pets-demo.onrender.com/pets', {
+    fetch('http://localhost:5000/pets', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(formData),

@@ -1,12 +1,23 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { FaArrowLeft, FaHeart, FaPaw, FaVenusMars, FaCalendarAlt, FaWeight, FaMapMarkerAlt, FaSyringe } from 'react-icons/fa';
 import Data from "../MyData.json";  
+import axios from 'axios';
 
 const PetProfile = () => {
   const { id } = useParams();
   const navigate = useNavigate();
-  const animal = Data.find(a => a.id === parseInt(id));
+  // const animal = Data.find(a => a.id === parseInt(id));
+  const [animal, setAnimal] = useState();
+
+  useEffect(() => {
+    async function fetchAnimals() {
+      const {data} = await axios.get(`http://localhost:5000/pets/${id}`);
+      setAnimal(data);
+    }
+
+    fetchAnimals()
+  }, [])
 
   if (!animal) {
     return (
